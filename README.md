@@ -18,13 +18,13 @@ The rules combine career-consulting methodology, ATS extraction research, hiring
 
 ## How to use it
 
-Give [the ruleset](RESUME.md) to ChatGPT, Claude, Gemini, or any other AI, tell it to follow every rule strictly, and ask to build or improve your CV. At ~7700 words, the instructions are specific: fact locking, evidence forcing, positioning discipline, market-aware output, and a built-in self-audit.
+Give [the ruleset](RESUME.md) to ChatGPT, Claude, Gemini, or any other AI (preferably with thinking turned on), tell it to follow every rule strictly, and ask to build or improve your CV. At ~7700 words, the instructions are specific: fact locking, evidence forcing, positioning discipline, market-aware output, and a built-in self-audit.
 
 - Starting from nothing? It asks one question at a time so you never have to dump your whole career at once.
 - Have an existing CV, LinkedIn profile, portfolio, or GitHub page? It reads what is there, locks the facts it finds, and asks only for what is missing.
 - Tailoring to a job posting, translating for a different market, or just asking a single question? It chooses the right scope instead of forcing the full pipeline every time.
 
-After the first draft, the self-audit and red-flag search run before you see anything. From there, point out what needs fixing, add missing facts, or ask to shift positioning, and the ruleset will revise while keeping everything else locked in place.
+After the first draft, the self-audit and red-flag search run before you see anything. From there, you can correct details, add missing facts, or ask to shift the positioning, and each revision gets sharper without losing what was already right.
 
 ## See also
 
